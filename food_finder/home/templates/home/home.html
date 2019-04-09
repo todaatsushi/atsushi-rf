@@ -1,0 +1,39 @@
+{% extends 'home/layout.html'%}
+
+{% block loading %}
+  <script>
+  </script>
+{% endblock %}
+
+{% block main %}
+  <form method="POST">
+    {% csrf_token %}
+    <fieldset>
+      <label for="station">Pick Your Station</label>
+      <input list="stations" name="stop">
+      <datalist id="stations">
+        {% for station in names %}
+          <option value="{{ station }}">
+        {% endfor %}
+      </datalist>
+    </fieldset>
+
+    <fieldset>
+      <label for="type">Type of outing:</label>
+      <select name="type">
+        <option value="drinks">Drinks</option>
+        <option value="dinner">Dinner</option>
+        <option value="lunch">Lunch</option>
+        <option value="coffee">Coffee</option>
+      </select>
+    </fieldset>
+
+    <input type="submit" value="Find">
+  </form>
+  
+{% endblock %}
+
+{% block vue %}
+  <script>
+  </script>
+{% endblock %}

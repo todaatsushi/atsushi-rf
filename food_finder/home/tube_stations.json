@@ -1,0 +1,3432 @@
+[
+ {
+   "Name": "Acton Town",
+   "Latitude": "51.502500",
+   "Longitude": "-0.278126",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "District, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Acton Central",
+   "Latitude": "51.50883531",
+   "Longitude": "-0.263033174",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "08/05/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Acton Central",
+   "Latitude": "51.50856013",
+   "Longitude": "-0.262879534",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "08/05/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Aldgate",
+   "Latitude": "51.51394",
+   "Longitude": "-0.07537",
+   "Platform / Entrance": "Aldgate High Street entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "28/4/2007",
+   "Line": "Metropolitan",
+   "Step free": "No"
+ },
+ {
+   "Name": "Aldgate East",
+   "Latitude": "51.51514",
+   "Longitude": "-0.07178",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Parsingphase",
+   "Collected On": "(2006)",
+   "Line": "District, Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Alperton",
+   "Latitude": "51.54097",
+   "Longitude": "-0.30061",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Amersham",
+   "Latitude": "51.67435",
+   "Longitude": "-0.60732",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-03-06",
+   "Line": "Metropolitan",
+   "Step free": "No (although plans are underway to change this)"
+ },
+ {
+   "Name": "Angel",
+   "Latitude": "51.53253",
+   "Longitude": "-0.10579",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-04-14",
+   "Line": "Northern",
+   "Step free": "No (Escalators)"
+ },
+ {
+   "Name": "Archway",
+   "Latitude": "51.56536",
+   "Longitude": "-0.13474",
+   "Platform / Entrance": "Junction Road entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-04-24",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Arnos Grove",
+   "Latitude": "51.61625",
+   "Longitude": "-0.13355",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-04-24",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Arsenal",
+   "Latitude": "51.55847",
+   "Longitude": "-0.10561",
+   "Platform / Entrance": "outside Gillespie Road exit; the platforms are a long walk west in tunnel",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Baker Street",
+   "Latitude": "51.52265",
+   "Longitude": "-0.15704",
+   "Platform / Entrance": "Circle/Hammersmith & City Entrance (probably)",
+   "Collected By": "User:Steve",
+   "Collected On": "11/2/06",
+   "Line": "Circle, Hammersmith & City",
+   "Step free": "No"
+ },
+ {
+   "Name": "Baker Street",
+   "Latitude": "51.522236",
+   "Longitude": "-0.157080",
+   "Platform / Entrance": "Bakerloo/Jubilee Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Bakerloo, Jubilee",
+   "Step free": "No"
+ },
+ {
+   "Name": "Balham",
+   "Latitude": "51.44344113",
+   "Longitude": "-0.152945844",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "07/05/2007",
+   "Line": "Northern",
+   "Step free": "No"
+ },
+ {
+   "Name": "Bank",
+   "Latitude": "51.5134047",
+   "Longitude": "-0.08905843",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/06",
+   "Line": "Central, Waterloo & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Barbican",
+   "Latitude": "51.520865",
+   "Longitude": "-0.097758",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "06/04/2007",
+   "Line": "Circle, Hammersmith & City, Metropolitan",
+   "Step free": "No"
+ },
+ {
+   "Name": "Barking",
+   "Latitude": "51.54079",
+   "Longitude": "+0.08018",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District, Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Barkingside",
+   "Latitude": "51.58543",
+   "Longitude": "+0.08854",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Barons Court",
+   "Latitude": "51.490281",
+   "Longitude": "-0.214340",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Piccadilly, District",
+   "Step free": ""
+ },
+ {
+   "Name": "Bayswater",
+   "Latitude": "51.51224",
+   "Longitude": "-0.187569",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "14/05/2007",
+   "Line": "Circle, District",
+   "Step free": ""
+ },
+ {
+   "Name": "Becontree",
+   "Latitude": "51.54029",
+   "Longitude": "+0.12620",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Belsize Park",
+   "Latitude": "51.55036",
+   "Longitude": "-0.16465",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Bermondsey",
+   "Latitude": "51.49813",
+   "Longitude": "-0.06350",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-03-02",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "Bethnal Green",
+   "Latitude": "51.52718",
+   "Longitude": "-0.05504",
+   "Platform / Entrance": "tube station entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "2007-05-12",
+   "Line": "Central",
+   "Step free": "No"
+ },
+ {
+   "Name": "Blackfriars",
+   "Latitude": "51.5114403",
+   "Longitude": "-0.10419050",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "30/10/06",
+   "Line": "Circle, District",
+   "Step free": ""
+ },
+ {
+   "Name": "Blackhorse Road",
+   "Latitude": "51.58698",
+   "Longitude": "-0.04104",
+   "Platform / Entrance": "Entrance Hall",
+   "Collected By": "User:Firefishy",
+   "Collected On": "15/08/2007",
+   "Line": "Victoria",
+   "Step free": ""
+ },
+ {
+   "Name": "Bond Street",
+   "Latitude": "51.51461",
+   "Longitude": "-0.14897",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "16/02/2007",
+   "Line": "Central, Jubilee",
+   "Step free": "No"
+ },
+ {
+   "Name": "Borough",
+   "Latitude": "51.50095",
+   "Longitude": "-0.09446",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "31/07/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Boston Manor",
+   "Latitude": "51.495371",
+   "Longitude": "-0.325573",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Bounds Green",
+   "Latitude": "51.60700",
+   "Longitude": "-0.12418",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-04-24",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Bow Road",
+   "Latitude": "51.52709",
+   "Longitude": "-0.02482",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "2007-05-13",
+   "Line": "District, Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Brent Cross",
+   "Latitude": "51.57693",
+   "Longitude": "-0.21414",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Brixton",
+   "Latitude": "51.46239",
+   "Longitude": "-0.115421",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Parsingphase",
+   "Collected On": "(2006)",
+   "Line": "Victoria",
+   "Step free": ""
+ },
+ {
+   "Name": "Bromley-by-Bow",
+   "Latitude": "51.52466",
+   "Longitude": "-0.01282",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District, Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Brondesbury",
+   "Latitude": "51.54505",
+   "Longitude": "-0.20297",
+   "Platform / Entrance": "London Overground platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Brondesbury Park",
+   "Latitude": "51.54060",
+   "Longitude": "-0.21093",
+   "Platform / Entrance": "London Overground platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Buckhurst Hill",
+   "Latitude": "51.62611",
+   "Longitude": "+0.04705",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Burnt Oak",
+   "Latitude": "51.60300",
+   "Longitude": "-0.26427",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Caledonian Road",
+   "Latitude": "51.54850",
+   "Longitude": "-0.11802",
+   "Platform / Entrance": "outside Caledonian Road exit",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Caledonian Road & Barnesbury",
+   "Latitude": "51.54326",
+   "Longitude": "-0.11544",
+   "Platform / Entrance": "London Overground platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Camden Road",
+   "Latitude": "51.54192",
+   "Longitude": "-0.13981",
+   "Platform / Entrance": "London Overground platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Camden Town",
+   "Latitude": "51.53930",
+   "Longitude": "-0.14316",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Northern",
+   "Step free": "No"
+ },
+ {
+   "Name": "Canada Water",
+   "Latitude": "51.49787 +/- 0.000011 (from 3 readings)",
+   "Longitude": "-0.04967 +/- 0.000008 (from 3 readings)",
+   "Platform / Entrance": "90º anticlockwise around dome from entrance",
+   "Collected By": "User:Ksbrown",
+   "Collected On": "13/4/07",
+   "Line": "East London",
+   "Step free": ""
+ },
+ {
+   "Name": "Canary Wharf",
+   "Latitude": "51.50362",
+   "Longitude": "-0.01987",
+   "Platform / Entrance": "LU Entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-03-02",
+   "Line": "Jubilee",
+   "Step free": "Unsure (JLE as a whole was built with step free?)"
+ },
+ {
+   "Name": "Cannon Street",
+   "Latitude": "51.51141",
+   "Longitude": "-0.09047",
+   "Platform / Entrance": "LU entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/2006",
+   "Line": "Circle, District",
+   "Step free": ""
+ },
+ {
+   "Name": "Canonbury",
+   "Latitude": "51.54822",
+   "Longitude": "-0.09632",
+   "Platform / Entrance": "mainline platforms",
+   "Collected By": "Morwen",
+   "Collected On": "07/03/07",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Canons Park",
+   "Latitude": "51.60810",
+   "Longitude": "-0.29487",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "Chalfont & Latimer",
+   "Latitude": "51.66822",
+   "Longitude": "-0.56053",
+   "Platform / Entrance": "Entrance (car park side; don't know if there's an entrance on the other side)",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-03-06",
+   "Line": "Metropolitan",
+   "Step free": "No"
+ },
+ {
+   "Name": "Chalk Farm",
+   "Latitude": "51.54390",
+   "Longitude": "-0.15384",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Chancery Lane",
+   "Latitude": "51.51836",
+   "Longitude": "-0.11115",
+   "Platform / Entrance": "Entrance/exit 3",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "27/01/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Charing Cross",
+   "Latitude": "51.507108",
+   "Longitude": "-0.122963",
+   "Platform / Entrance": "Mainline Platforms",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/2006",
+   "Line": "Bakerloo, Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Chesham",
+   "Latitude": "51.70522733",
+   "Longitude": "-0.610986426",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": "Yes (Single platform accessed on flat)"
+ },
+ {
+   "Name": "Chigwell",
+   "Latitude": "51.61795",
+   "Longitude": "+0.07511",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Chiswick Park",
+   "Latitude": "51.49466",
+   "Longitude": "-0.26866",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Chorleywood",
+   "Latitude": "51.65429872",
+   "Longitude": "-0.518373353",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": "No (Subway between N/B & S/B)"
+ },
+ {
+   "Name": "City Thameslink",
+   "Latitude": "51.51416",
+   "Longitude": "-0.10335",
+   "Platform / Entrance": "Ludgate Hill exit",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "Thameslink",
+   "Step free": ""
+ },
+ {
+   "Name": "Clapham Common",
+   "Latitude": "51.46156",
+   "Longitude": "-0.13802",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Parsingphase",
+   "Collected On": "(2006)",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Clapham North",
+   "Latitude": "51.46522",
+   "Longitude": "-0.12950",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Parsingphase",
+   "Collected On": "(2006)",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Clapham South",
+   "Latitude": "51.45292257",
+   "Longitude": "-0.147562148",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "07/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Cockfosters",
+   "Latitude": "51.65117",
+   "Longitude": "-0.14811",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "2/5/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Colindale",
+   "Latitude": "51.59556",
+   "Longitude": "-0.24996",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Colliers Wood",
+   "Latitude": "51.41823649",
+   "Longitude": "-0.17800983",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "07/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Covent Garden",
+   "Latitude": "51.51308",
+   "Longitude": "-0.12427",
+   "Platform / Entrance": "Long Acre entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "28/4/2007",
+   "Line": "Piccadilly",
+   "Step free": "Unsure ( has Lifts )"
+ },
+ {
+   "Name": "Croxley",
+   "Latitude": "51.64733268",
+   "Longitude": "-0.441479115",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": "No ( Stairs from Platform level to booking hall)"
+ },
+ {
+   "Name": "Dagenham East",
+   "Latitude": "51.54396",
+   "Longitude": "+0.16439",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Dagenham Heathway",
+   "Latitude": "51.54173",
+   "Longitude": "+0.14543",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Dalston Kingsland",
+   "Latitude": "51.54832",
+   "Longitude": "-0.07879",
+   "Platform / Entrance": "mainline platforms",
+   "Collected By": "Morwen",
+   "Collected On": "07/03/07",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Debden",
+   "Latitude": "51.64535",
+   "Longitude": "+0.08364",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Dollis Hill",
+   "Latitude": "51.55250",
+   "Longitude": "-0.23884",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:AcousticNewt",
+   "Collected On": "25/11/2006",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "Ealing Broadway",
+   "Latitude": "51.51482",
+   "Longitude": "-0.30118",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "27/01/2007",
+   "Line": "Central, District",
+   "Step free": ""
+ },
+ {
+   "Name": "Ealing Common",
+   "Latitude": "51.50997",
+   "Longitude": "-0.28825",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "District, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Earl's Court",
+   "Latitude": "51.491521",
+   "Longitude": "-0.193906",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "District, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "East Acton",
+   "Latitude": "51.51753",
+   "Longitude": "-0.24827",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "27/01/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "East Finchley",
+   "Latitude": "51.5872974705487",
+   "Longitude": "-0.16495632312818",
+   "Platform / Entrance": "southbound platform",
+   "Collected By": "User:Welshie",
+   "Collected On": "27/09/2006",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "East Ham",
+   "Latitude": "51.53931",
+   "Longitude": "+0.05260",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District, Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "East Putney",
+   "Latitude": "51.459015",
+   "Longitude": "-0.211138",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Randomjunk",
+   "Collected On": "30/11/2006",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Eastcote",
+   "Latitude": "51.57676",
+   "Longitude": "-0.39629",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Metropolitan, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Edgware",
+   "Latitude": "51.61385",
+   "Longitude": "-0.27515",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Northern",
+   "Step free": "No (Stairs from Booking Hall to platforms)"
+ },
+ {
+   "Name": "Edgware Road (Bakerloo Line)",
+   "Latitude": "51.519560",
+   "Longitude": "-0.169068",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Bakerloo",
+   "Step free": "No (Escalator to platforms)"
+ },
+ {
+   "Name": "Edgware Road (Circle Line)",
+   "Latitude": "51.520195",
+   "Longitude": "-0.166986",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Circle, District, Hammersmith & City",
+   "Step free": "No (Stairs between platform and Booking hall)"
+ },
+ {
+   "Name": "Elephant & Castle",
+   "Latitude": "51.49467",
+   "Longitude": "-0.10047",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Parsingphase",
+   "Collected On": "(2006)",
+   "Line": "Bakerloo, Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Elm Park",
+   "Latitude": "51.54969",
+   "Longitude": "+0.19779",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Embankment",
+   "Latitude": "51.50717",
+   "Longitude": "-0.12195",
+   "Platform / Entrance": "outside Thames Embankment exit",
+   "Collected By": "User:Morwen",
+   "Collected On": "8/5/07",
+   "Line": "Bakerloo, Circle, District, Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Epping",
+   "Latitude": "51.69365",
+   "Longitude": "+0.11495",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Euston",
+   "Latitude": "51.52774",
+   "Longitude": "-0.13303",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "11/2/06",
+   "Line": "Northern",
+   "Step free": "Unsure (Escalators to mainline station)"
+ },
+ {
+   "Name": "Euston Square",
+   "Latitude": "51.52584",
+   "Longitude": "-0.13570",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "11/2/06",
+   "Line": "Circle, Hammersmith & City, Metropolitan",
+   "Step free": "No (Stairs from platform level)"
+ },
+ {
+   "Name": "Fairlop",
+   "Latitude": "51.59634",
+   "Longitude": "+0.09125",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Farringdon",
+   "Latitude": "51.520362948",
+   "Longitude": "-0.105126482",
+   "Platform / Entrance": "C/H+C/M Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "05/08/06",
+   "Line": "Circle, Hammersmith & City, Metropolitan",
+   "Step free": "No (Stairs from platform level)"
+ },
+ {
+   "Name": "Farringdon",
+   "Latitude": "51.520086",
+   "Longitude": "-0.104789",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "18/10/06",
+   "Line": "Circle, Hammersmith & City, Metropolitan",
+   "Step free": "No (Stairs to/from platform level)"
+ },
+ {
+   "Name": "Finchley Central",
+   "Latitude": "51.60102",
+   "Longitude": "-0.19240",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "10/2/06",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Finchley Road",
+   "Latitude": "51.546701",
+   "Longitude": "-0.179867",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "Jubilee, Metropolitan",
+   "Step free": "No (Steps to/from platform level)"
+ },
+ {
+   "Name": "Finchley Road and Frognal",
+   "Latitude": "51.54994",
+   "Longitude": "-0.18412",
+   "Platform / Entrance": "London Overground platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Finsbury Park",
+   "Latitude": "51.56498",
+   "Longitude": "-0.10543",
+   "Platform / Entrance": "in bus station, near mainline entrance end",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "Piccadilly, Victoria",
+   "Step free": "No (Steps at subsurface level)"
+ },
+ {
+   "Name": "Fulham Broadway",
+   "Latitude": "51.48033",
+   "Longitude": "-0.19488",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "18/05/2007",
+   "Line": "District",
+   "Step free": "Unsure"
+ },
+ {
+   "Name": "Gants Hill",
+   "Latitude": "51.57649",
+   "Longitude": "0.06637",
+   "Platform / Entrance": "Entrance Hall",
+   "Collected By": "User:Firefishy",
+   "Collected On": "15/08/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Gloucester Road",
+   "Latitude": "51.49408266",
+   "Longitude": "-0.17295341",
+   "Platform / Entrance": "C/D platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "8/09/06",
+   "Line": "Circle, District, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Golders Green",
+   "Latitude": "51.57249",
+   "Longitude": "-0.19410",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Goldhawk Road",
+   "Latitude": "51.501248",
+   "Longitude": "-0.226776",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "07/04/2007",
+   "Line": "Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Goodge Street",
+   "Latitude": "51.52060",
+   "Longitude": "-0.13441",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "10/2/06",
+   "Line": "Northern",
+   "Step free": "Unsure ( Certainly has lifts)"
+ },
+ {
+   "Name": "Gospel Oak",
+   "Latitude": "51.55597",
+   "Longitude": "-0.15228",
+   "Platform / Entrance": "London Overground platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Grange Hill",
+   "Latitude": "51.61326",
+   "Longitude": "+0.09258",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Great Portland Street",
+   "Latitude": "51.52391",
+   "Longitude": "-0.14397",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "11/2/06",
+   "Line": "Circle, Hammersmith & City, Metropolitan",
+   "Step free": "No (Steps to/from platform level)"
+ },
+ {
+   "Name": "Greenford",
+   "Latitude": "51.542346",
+   "Longitude": "-0.345903",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "18/02/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Gunnersbury",
+   "Latitude": "51.49126844",
+   "Longitude": "-0.275554312",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "08/05/2007",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Green Park",
+   "Latitude": "51.50674",
+   "Longitude": "-0.14276",
+   "Platform / Entrance": "Entrance (south side of Piccadilly)",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-04-12",
+   "Line": "Jubilee, Piccadilly, Victoria",
+   "Step free": "Unsure ( Certainly escalators at subsurface)"
+ },
+ {
+   "Name": "Hackney Central",
+   "Latitude": "51.54689",
+   "Longitude": "-0.05784",
+   "Platform / Entrance": "mainline platforms",
+   "Collected By": "Morwen",
+   "Collected On": "07/03/07",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Hackney Wick",
+   "Latitude": "51.54348",
+   "Longitude": "-0.02474",
+   "Platform / Entrance": "mainline platforms",
+   "Collected By": "Morwen",
+   "Collected On": "07/03/07",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Hainault",
+   "Latitude": "51.60288",
+   "Longitude": "+0.09332",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Hammersmith (Dist&Picc Line)",
+   "Latitude": "51.492328",
+   "Longitude": "-0.222825",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "District, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Hammersmith (H&C Line)",
+   "Latitude": "51.494190748",
+   "Longitude": "-0.225964953",
+   "Platform / Entrance": "H+C Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "02/04/06",
+   "Line": "Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Hampstead",
+   "Latitude": "51.55645",
+   "Longitude": "-0.17851",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Northern",
+   "Step free": "Unsure (Has lifts)"
+ },
+ {
+   "Name": "Hampstead Heath",
+   "Latitude": "51.55533",
+   "Longitude": "-0.16656",
+   "Platform / Entrance": "London Overground platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Hanger Lane",
+   "Latitude": "51.5300",
+   "Longitude": "-0.2929",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-03-03",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Harlesden",
+   "Latitude": "51.53628278",
+   "Longitude": "-0.257622488",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Harrow & Wealdstone",
+   "Latitude": "51.59205973",
+   "Longitude": "-0.334725352",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Harrow-on-the-Hill",
+   "Latitude": "51.579335",
+   "Longitude": "-0.337052",
+   "Platform / Entrance": "Entrance Hall",
+   "Collected By": "User:Firefishy",
+   "Collected On": "18/10/2006",
+   "Line": "Metropolitan",
+   "Step free": "Steps (from street) and (to/from Platforms)"
+ },
+ {
+   "Name": "Hatton Cross",
+   "Latitude": "51.466988",
+   "Longitude": "-0.423035",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Heathrow Terminals 1-2-3",
+   "Latitude": "51.4712899",
+   "Longitude": "-0.4527438",
+   "Platform / Entrance": "Central Bus Station Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "28/02/07",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Heathrow Terminal 4",
+   "Latitude": "51.4594777",
+   "Longitude": "-0.44689658",
+   "Platform / Entrance": "Terminal Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "28/02/07",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Hendon Central",
+   "Latitude": "51.58346",
+   "Longitude": "-0.22653",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "High Barnet",
+   "Latitude": "51.6506519031751",
+   "Longitude": "-0.194138165994553",
+   "Platform / Entrance": "Platform 2",
+   "Collected By": "User:Simon",
+   "Collected On": "27/9/06",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "High Street Kensington",
+   "Latitude": "51.5003459144",
+   "Longitude": "-0.1923516640",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "30/07/06",
+   "Line": "Circle, District",
+   "Step free": "No ( Steps to/from platform)"
+ },
+ {
+   "Name": "Highbury & Islington",
+   "Latitude": "51.54502",
+   "Longitude": "-0.10752",
+   "Platform / Entrance": "mainline platforms",
+   "Collected By": "Morwen",
+   "Collected On": "07/03/07",
+   "Line": "London Overground, Victoria, Northern City",
+   "Step free": ""
+ },
+ {
+   "Name": "Highgate",
+   "Latitude": "51.57722",
+   "Longitude": "-0.14553",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "10/2/06",
+   "Line": "Northern",
+   "Step free": "No (Escaltors to platform level)"
+ },
+ {
+   "Name": "Hillingdon",
+   "Latitude": "51.55364",
+   "Longitude": "-0.45062",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Metropolitan, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Holborn",
+   "Latitude": "51.51711",
+   "Longitude": "-0.12055",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "27/01/2007",
+   "Line": "Central, Piccadilly",
+   "Step free": "Unsure"
+ },
+ {
+   "Name": "Holland Park",
+   "Latitude": "51.50722",
+   "Longitude": "-0.20553",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "27/01/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Holloway Road",
+   "Latitude": "51.55290",
+   "Longitude": "-0.11278",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "2007-05-13",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Homerton",
+   "Latitude": "51.54710",
+   "Longitude": "-0.04323",
+   "Platform / Entrance": "mainline platforms",
+   "Collected By": "Morwen",
+   "Collected On": "07/03/07",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Hornchurch",
+   "Latitude": "51.55387",
+   "Longitude": "+0.21797",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Hounslow Central",
+   "Latitude": "51.471290",
+   "Longitude": "-0.365853",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Hounslow East",
+   "Latitude": "51.473540",
+   "Longitude": "-0.356000",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Hounslow West",
+   "Latitude": "51.473689",
+   "Longitude": "-0.386471",
+   "Platform / Entrance": "Platform (North End)",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Piccadilly",
+   "Step free": "Lift for wheelchair users only."
+ },
+ {
+   "Name": "Hyde Park Corner",
+   "Latitude": "51.50313",
+   "Longitude": "-0.15278",
+   "Platform / Entrance": "at main entrance (on northern side of roundabout)",
+   "Collected By": "User:Morwen",
+   "Collected On": "1/05/07",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Ickenham",
+   "Latitude": "51.56147",
+   "Longitude": "-0.44257",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Metropolitan, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Kennington",
+   "Latitude": "51.48823",
+   "Longitude": "-0.10587",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Parsingphase",
+   "Collected On": "(2006)",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Kensal Green",
+   "Latitude": "51.53060655",
+   "Longitude": "-0.224253545",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Kensal Rise",
+   "Latitude": "51.53387",
+   "Longitude": "-0.22145",
+   "Platform / Entrance": "London Overground platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Kensington (Olympia)",
+   "Latitude": "51.49675",
+   "Longitude": "-0.20931",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "9/5/2007",
+   "Line": "District",
+   "Step free": "Yes ( Seem to recall it's a flat access from one side of the concourse)"
+ },
+ {
+   "Name": "Kentish Town",
+   "Latitude": "51.55046",
+   "Longitude": "-0.14067",
+   "Platform / Entrance": "entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "8/6/2007",
+   "Line": "Northern",
+   "Step free": "No ( Escalators to platform level)"
+ },
+ {
+   "Name": "Kentish Town West",
+   "Latitude": "51.54776",
+   "Longitude": "-0.14708",
+   "Platform / Entrance": "London Overground platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Kenton",
+   "Latitude": "51.58173809",
+   "Longitude": "-0.316870809",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Kew Gardens",
+   "Latitude": "51.47725641",
+   "Longitude": "-0.284980014",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "08/05/2007",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Kilburn",
+   "Latitude": "51.5471715",
+   "Longitude": "-0.2050020",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/06",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "Kilburn Park",
+   "Latitude": "51.53495818",
+   "Longitude": "-0.193963023",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": "No (Escalators to platform level)"
+ },
+ {
+   "Name": "King's Cross St.Pancras",
+   "Latitude": "51.53057",
+   "Longitude": "-0.12399",
+   "Platform / Entrance": "between King's Cross exit and main tube entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "Piccadilly, Circle, Victoria, Northern, Metropolitan, Hammersmith & City",
+   "Step free": "Unsure (Escaltors to deep level platforms)"
+ },
+ {
+   "Name": "King's Cross Thameslink",
+   "Latitude": "51.53080",
+   "Longitude": "-0.12044",
+   "Platform / Entrance": "Pentonville Road exit",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "Thameslink",
+   "Step free": "Unsure (Complex as a whole had steps)"
+ },
+ {
+   "Name": "Kingsbury",
+   "Latitude": "51.58422",
+   "Longitude": "-0.27880",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "Knightsbridge",
+   "Latitude": "51.50169",
+   "Longitude": "-0.16030",
+   "Platform / Entrance": "Between Sloane Street and Knightsbridge entrances",
+   "Collected By": "User:Morwen",
+   "Collected On": "1/05/07",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Ladbroke Grove",
+   "Latitude": "51.517300",
+   "Longitude": "-0.211140",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "07/04/2007",
+   "Line": "Hammersmith & City",
+   "Step free": "No (Steps to platform level)"
+ },
+ {
+   "Name": "Lambeth North",
+   "Latitude": "51.49894",
+   "Longitude": "-0.11216",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "31/07/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Lancaster Gate",
+   "Latitude": "51.512083",
+   "Longitude": "-0.175067",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "14/05/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Latimer Road",
+   "Latitude": "51.513125",
+   "Longitude": "-0.218428",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "07/04/2007",
+   "Line": "Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Leicester Square",
+   "Latitude": "51.51148",
+   "Longitude": "-0.12849",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "10/2/06",
+   "Line": "Northern, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Leyton",
+   "Latitude": "51.556483",
+   "Longitude": "-0.005669",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "21/10/06",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Leytonstone",
+   "Latitude": "51.56828",
+   "Longitude": "0.00739",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Parsingphase",
+   "Collected On": "(2006)",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Liverpool Street",
+   "Latitude": "51.517675",
+   "Longitude": "-0.0824580",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "05/08/06",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "London Bridge",
+   "Latitude": "51.505353",
+   "Longitude": "-0.084826",
+   "Platform / Entrance": "Mainline Through Platforms",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/06",
+   "Line": "Jubilee, Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Loughton",
+   "Latitude": "51.64170",
+   "Longitude": "+0.05583",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Maida Vale",
+   "Latitude": "51.52989409",
+   "Longitude": "-0.185888819",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Manor House",
+   "Latitude": "51.57038",
+   "Longitude": "-0.09601",
+   "Platform / Entrance": "on top of ticket hall",
+   "Collected By": "User:Morwen",
+   "Collected On": "29/4/07",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Mansion House",
+   "Latitude": "51.51256",
+   "Longitude": "-0.09397",
+   "Platform / Entrance": "Queen Victoria Street entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "18/05/2007",
+   "Line": "Circle, District",
+   "Step free": ""
+ },
+ {
+   "Name": "Marble Arch",
+   "Latitude": "51.5135970",
+   "Longitude": "-0.15869195",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "12/08/06",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Marylebone",
+   "Latitude": "51.522660",
+   "Longitude": "-0.162996",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Bakerloo",
+   "Step free": "No (Escalators to platform level)"
+ },
+ {
+   "Name": "Mile End",
+   "Latitude": "51.525306",
+   "Longitude": "-0.033471",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/06",
+   "Line": "Central, District, Hammersmith & City",
+   "Step free": "Unusure"
+ },
+ {
+   "Name": "Mill Hill East",
+   "Latitude": "51.60892",
+   "Longitude": "-0.20965",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "2/6/07",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Monument",
+   "Latitude": "51.510165",
+   "Longitude": "-0.085991",
+   "Platform / Entrance": "Entrance on Monument Street",
+   "Collected By": "User:Ksbrown",
+   "Collected On": "13/04/07",
+   "Line": "Circle, District",
+   "Step free": ""
+ },
+ {
+   "Name": "Moor Park",
+   "Latitude": "51.62970512",
+   "Longitude": "-0.432070848",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": "No ( Steps to/from Platform level)"
+ },
+ {
+   "Name": "Moorgate",
+   "Latitude": "51.51817",
+   "Longitude": "-0.08859",
+   "Platform / Entrance": "By Moorfields entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "2007-05-13",
+   "Line": "Northern, Circle, Hammersmith & City, Metropolitan, Northern City, Thameslink",
+   "Step free": "No (Steps to 'surface' lines and escaltors to Deep)"
+ },
+ {
+   "Name": "Morden",
+   "Latitude": "51.40222413",
+   "Longitude": "-0.194599126",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "07/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Mornington Crescent",
+   "Latitude": "51.53427",
+   "Longitude": "-0.13901",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "11/2/06",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Neasden",
+   "Latitude": "51.55427",
+   "Longitude": "-0.25042",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Jubilee",
+   "Step free": "No (Steps to/from platform level)"
+ },
+ {
+   "Name": "New Cross",
+   "Latitude": "51.477363",
+   "Longitude": "-0.0338817",
+   "Platform / Entrance": "Mainline platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/06",
+   "Line": "East London",
+   "Step free": ""
+ },
+ {
+   "Name": "New Cross Gate",
+   "Latitude": "51.47585",
+   "Longitude": "-0.04049",
+   "Platform / Entrance": "ELL platform",
+   "Collected By": "User:Morwen",
+   "Collected On": "7/5/2007",
+   "Line": "East London",
+   "Step free": ""
+ },
+ {
+   "Name": "Newbury Park",
+   "Latitude": "51.57565",
+   "Longitude": "+0.08927",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "North Acton",
+   "Latitude": "51.52370",
+   "Longitude": "-0.26019",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "27/01/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "North Ealing",
+   "Latitude": "51.51807",
+   "Longitude": "-0.28838",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "North Greenwich",
+   "Latitude": "51.50056",
+   "Longitude": "+0.00360",
+   "Platform / Entrance": "Dome entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "31/07/2007",
+   "Line": "Jubilee",
+   "Step free": "Unsure ( JLE was built as step free?)"
+ },
+ {
+   "Name": "North Harrow",
+   "Latitude": "51.58503612",
+   "Longitude": "-0.362595264",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": ""
+ },
+ {
+   "Name": "North Wembley",
+   "Latitude": "51.56258091",
+   "Longitude": "-0.304072648",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Northfields",
+   "Latitude": "51.499856",
+   "Longitude": "-0.313188",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Northolt",
+   "Latitude": "51.548054",
+   "Longitude": "-0.368257",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "21/10/06",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Northolt",
+   "Latitude": "51.548467",
+   "Longitude": "-0.36968",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "21/10/06",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Northwick Park",
+   "Latitude": "51.57850117",
+   "Longitude": "-0.317857023",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": ""
+ },
+ {
+   "Name": "Northwood",
+   "Latitude": "51.61098984",
+   "Longitude": "-0.423584422",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": "No ( Steps to/from platform level)"
+ },
+ {
+   "Name": "Northwood Hills",
+   "Latitude": "51.60043795",
+   "Longitude": "-0.408812575",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": ""
+ },
+ {
+   "Name": "Notting Hill Gate",
+   "Latitude": "51.509028",
+   "Longitude": "-0.1962847",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "14/05/2007",
+   "Line": "Central, Circle, District",
+   "Step free": "No ( Steps to 'surface' platforms)"
+ },
+ {
+   "Name": "Oakwood",
+   "Latitude": "51.64739",
+   "Longitude": "-0.13192",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "2/5/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Old Street",
+   "Latitude": "51.52618",
+   "Longitude": "-0.08751",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "20/2/06",
+   "Line": "Northern, Northern City",
+   "Step free": "Unsure"
+ },
+ {
+   "Name": "Osterley",
+   "Latitude": "51.481569",
+   "Longitude": "-0.351960",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Oval",
+   "Latitude": "51.48214",
+   "Longitude": "-0.11284",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Parsingphase",
+   "Collected On": "(2006)",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Oxford Circus",
+   "Latitude": "51.51517",
+   "Longitude": "-0.14119",
+   "Platform / Entrance": "Argyle Street entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "27/01/2007",
+   "Line": "Bakerloo, Central, Victoria",
+   "Step free": "No (Escalators)"
+ },
+ {
+   "Name": "Paddington",
+   "Latitude": "51.5151846554",
+   "Longitude": "-0.17553880792",
+   "Platform / Entrance": "C/D Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "30/07/06",
+   "Line": "Circle, District",
+   "Step free": "No (Steps to platform level)"
+ },
+ {
+   "Name": "Paddington (H&C Line)",
+   "Latitude": "51.519096707",
+   "Longitude": "-0.176968859",
+   "Platform / Entrance": "H+C Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "02/04/06",
+   "Line": "Hammersmith and City",
+   "Step free": "Unsure ( Access via bridge from mainline concourse)"
+ },
+ {
+   "Name": "Park Royal",
+   "Latitude": "51.52671",
+   "Longitude": "-0.28417",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Parsons Green",
+   "Latitude": "51.47488",
+   "Longitude": "-0.20205",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "18/05/2007",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Perivale",
+   "Latitude": "51.536673",
+   "Longitude": "-0.32391",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "18/02/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Piccadilly Circus",
+   "Latitude": "51.51022",
+   "Longitude": "-0.13392",
+   "Platform / Entrance": "Trocadero / Shaftesbury Avenue entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-04-13",
+   "Line": "Piccadilly, Bakerloo",
+   "Step free": "No (Escalator to Platform level)"
+ },
+ {
+   "Name": "Pimlico",
+   "Latitude": "51.489081",
+   "Longitude": "-0.133037",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Victoria",
+   "Step free": ""
+ },
+ {
+   "Name": "Pinner",
+   "Latitude": "51.59270271",
+   "Longitude": "-0.380539158",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": ""
+ },
+ {
+   "Name": "Plaistow",
+   "Latitude": "51.53122",
+   "Longitude": "0.01659",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District, Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Preston Road",
+   "Latitude": "51.57229051",
+   "Longitude": "-0.295813875",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": ""
+ },
+ {
+   "Name": "Putney Bridge",
+   "Latitude": "51.46868",
+   "Longitude": "-0.2088141",
+   "Platform / Entrance": "East bound platform",
+   "Collected By": "User:Randomjunk",
+   "Collected On": "30/11/2006",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Queen's Park",
+   "Latitude": "51.534179",
+   "Longitude": "-0.205257721",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Queensbury",
+   "Latitude": "51.59437",
+   "Longitude": "-0.28655",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "Queensway",
+   "Latitude": "51.510484",
+   "Longitude": "-0.187050",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "14/05/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Ravenscourt Park",
+   "Latitude": "51.494190",
+   "Longitude": "-0.235600",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Rayners Lane",
+   "Latitude": "51.57534",
+   "Longitude": "-0.37240",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Metropolitan, Piccadilly",
+   "Step free": "No (Steps to/from Platform level)"
+ },
+ {
+   "Name": "Redbridge",
+   "Latitude": "51.57618",
+   "Longitude": "0.04542",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "15/08/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Regent's Park",
+   "Latitude": "51.52344",
+   "Longitude": "-0.14713",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "11/2/06",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Richmond",
+   "Latitude": "51.46343247",
+   "Longitude": "-0.302033247",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "08/05/2007",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Richmond",
+   "Latitude": "51.4632474",
+   "Longitude": "-0.300618047",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "08/05/2007",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Rickmansworth",
+   "Latitude": "51.64027898",
+   "Longitude": "-0.473521454",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": "Unsure ( Station has flat access to S/B  but also has a subway)"
+ },
+ {
+   "Name": "Roding Valley",
+   "Latitude": "51.61691",
+   "Longitude": "+0.04264",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Rotherhithe",
+   "Latitude": "51.50089",
+   "Longitude": "-0.05211",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "31/07/2007",
+   "Line": "East London",
+   "Step free": ""
+ },
+ {
+   "Name": "Royal Oak",
+   "Latitude": "51.519383",
+   "Longitude": "-0.187785",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "07/04/2007",
+   "Line": "Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Ruislip",
+   "Latitude": "51.57146",
+   "Longitude": "-0.42157",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Metropolitan, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Ruislip Gardens",
+   "Latitude": "51.560711",
+   "Longitude": "-0.410587",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "18/02/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Ruislip Manor",
+   "Latitude": "51.57349",
+   "Longitude": "-0.41185",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Metropolitan, Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Russell Square",
+   "Latitude": "51.523243",
+   "Longitude": "-0.124336",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "06/04/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "St.James's Park",
+   "Latitude": "51.49971",
+   "Longitude": "-0.13394",
+   "Platform / Entrance": "Broadway exit",
+   "Collected By": "User:Morwen",
+   "Collected On": "22/5/2007",
+   "Line": "Circle, District",
+   "Step free": ""
+ },
+ {
+   "Name": "Seven Sisters",
+   "Latitude": "51.58318",
+   "Longitude": "-0.07495",
+   "Platform / Entrance": "mainline platforms",
+   "Collected By": "Morwen",
+   "Collected On": "07/03/07",
+   "Line": "Victoria",
+   "Step free": ""
+ },
+ {
+   "Name": "Shadwell",
+   "Latitude": "51.51115",
+   "Longitude": "-0.05693",
+   "Platform / Entrance": "Tube Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "22/10/2007",
+   "Line": "East London",
+   "Step free": ""
+ },
+ {
+   "Name": "Shepherd's Bush",
+   "Latitude": "51.50474",
+   "Longitude": "-0.21881",
+   "Platform / Entrance": "Old ticket hall",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "27/01/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Shepherd's Bush Market",
+   "Latitude": "51.506063",
+   "Longitude": "-0.226231",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "07/04/2007",
+   "Line": "Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Sloane Square",
+   "Latitude": "51.49258474",
+   "Longitude": "-0.156090904",
+   "Platform / Entrance": "C/D Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "08/09/06",
+   "Line": "Central, District",
+   "Step free": ""
+ },
+ {
+   "Name": "Snaresbrook",
+   "Latitude": "51.58002",
+   "Longitude": "+0.02133",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "South Acton",
+   "Latitude": "51.49960784",
+   "Longitude": "-0.270187631",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "08/05/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "South Ealing",
+   "Latitude": "51.500801",
+   "Longitude": "-0.307856",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "South Harrow",
+   "Latitude": "51.56461",
+   "Longitude": "-0.35210",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "South Kensington",
+   "Latitude": "51.494066",
+   "Longitude": "-0.172791",
+   "Platform / Entrance": "C/D Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "Circle, District, Piccadilly",
+   "Step free": "Unsure (Steps from/to 'surface' platforms?)."
+ },
+ {
+   "Name": "South Kenton",
+   "Latitude": "51.57044666",
+   "Longitude": "-0.308566354",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "South Ruislip",
+   "Latitude": "51.556795",
+   "Longitude": "-0.398708",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "18/02/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "South Wimbledon",
+   "Latitude": "51.41543048",
+   "Longitude": "-0.192262754",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "07/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "South Woodford",
+   "Latitude": "51.59088",
+   "Longitude": "+0.02726",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Southfields",
+   "Latitude": "51.444941",
+   "Longitude": "-0.206466",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Randomjunk",
+   "Collected On": "2/12/2006",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Southgate",
+   "Latitude": "51.63240",
+   "Longitude": "-0.12765",
+   "Platform / Entrance": "entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "2/5/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Southwark",
+   "Latitude": "51.50384",
+   "Longitude": "-0.10478",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-04-19",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "St.John's Wood",
+   "Latitude": "51.53472",
+   "Longitude": "-0.17428",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "31/07/2007",
+   "Line": "Jubilee",
+   "Step free": "No (Escalators)"
+ },
+ {
+   "Name": "St.Paul's",
+   "Latitude": "51.515285",
+   "Longitude": "-0.097598",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:TomH",
+   "Collected On": "27/02/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Stamford Brook",
+   "Latitude": "51.494935",
+   "Longitude": "-0.246190",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Stanmore",
+   "Latitude": "51.61895",
+   "Longitude": "-0.30241",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Jubilee",
+   "Step free": "Unsure ( I seem to recall a long flight of steps from street level to the cutting in which the platforms are.ShakespeareFan00 20:17, 3 July 2009 (UTC))"
+ },
+ {
+   "Name": "Stepney Green",
+   "Latitude": "51.521884",
+   "Longitude": "-0.046546",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/06",
+   "Line": "District, Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Stockwell",
+   "Latitude": "51.47224",
+   "Longitude": "-0.12270",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Parsingphase",
+   "Collected On": "(2006)",
+   "Line": "Northern, Victoria",
+   "Step free": ""
+ },
+ {
+   "Name": "Stonebridge Park",
+   "Latitude": "51.54402388",
+   "Longitude": "-0.275978856",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Stratford",
+   "Latitude": "51.541208",
+   "Longitude": "-0.003776",
+   "Platform / Entrance": "Central Line Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/06",
+   "Line": "Central, Jubilee, London Overground",
+   "Step free": "Unsure- (Steps at the very least)"
+ },
+ {
+   "Name": "Stratford",
+   "Latitude": "51.541146",
+   "Longitude": "-0.002675",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/06",
+   "Line": "Central, Jubilee, London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Sudbury Hill",
+   "Latitude": "51.556998",
+   "Longitude": "-0.335949",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "31/10/06",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Sudbury Town",
+   "Latitude": "51.55093",
+   "Longitude": "-0.31598",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Piccadilly",
+   "Step free": ""
+ },
+ {
+   "Name": "Surrey Quays",
+   "Latitude": "51.49365",
+   "Longitude": "-0.04816",
+   "Platform / Entrance": "Platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "7/5/2007",
+   "Line": "East London, Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "Swiss Cottage",
+   "Latitude": "51.54333",
+   "Longitude": "-0.17436",
+   "Platform / Entrance": "Avenue Road entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "31/07/2007",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "Temple",
+   "Latitude": "51.51114",
+   "Longitude": "-0.11341",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "18/05/2007",
+   "Line": "Circle, District",
+   "Step free": ""
+ },
+ {
+   "Name": "Theydon Bois",
+   "Latitude": "51.67246",
+   "Longitude": "+0.10354",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Tooting Bec",
+   "Latitude": "51.43578971",
+   "Longitude": "-0.159635693",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "07/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Tooting Broadway",
+   "Latitude": "51.42780008",
+   "Longitude": "-0.167910811",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "07/05/2007",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Tottenham Court Road",
+   "Latitude": "51.51640",
+   "Longitude": "-0.13027",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "10/2/06",
+   "Line": "Central, Northern",
+   "Step free": "No (Escalators)"
+ },
+ {
+   "Name": "Tottenham Court Road",
+   "Latitude": "51.51672074",
+   "Longitude": "-0.13093911",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "12/08/06",
+   "Line": "Central, Northern",
+   "Step free": "No (Steps from street level/Escaltors)"
+ },
+ {
+   "Name": "Tottenham Hale",
+   "Latitude": "51.588878",
+   "Longitude": "-0.059808",
+   "Platform / Entrance": "Mainline Platform",
+   "Collected By": "User:TomH",
+   "Collected On": "27/01/07",
+   "Line": "Victoria",
+   "Step free": ""
+ },
+ {
+   "Name": "Totteridge & Whetstone",
+   "Latitude": "51.63022",
+   "Longitude": "-0.17917",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Kake",
+   "Collected On": "2007-04-24",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Tower Hill",
+   "Latitude": "51.509910",
+   "Longitude": "-0.076813",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "30/10/06",
+   "Line": "Circle, District",
+   "Step free": "No (Steps from street level)"
+ },
+ {
+   "Name": "Tufnell Park",
+   "Latitude": "51.55663",
+   "Longitude": "-0.13813",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "2/6/07",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Turnham Green",
+   "Latitude": "51.495143",
+   "Longitude": "-0.254060",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Turnpike Lane",
+   "Latitude": "51.59031",
+   "Longitude": "-0.10308",
+   "Platform / Entrance": "entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "16/5/2007",
+   "Line": "Piccadilly",
+   "Step free": "No (Escalators)"
+ },
+ {
+   "Name": "Upminster",
+   "Latitude": "51.55925",
+   "Longitude": "+0.25177",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Upminster Bridge",
+   "Latitude": "51.55847",
+   "Longitude": "+0.23509",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Upney",
+   "Latitude": "51.53824",
+   "Longitude": "+0.09998",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Upton Park",
+   "Latitude": "51.53514",
+   "Longitude": "0.03373",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "District, Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Uxbridge",
+   "Latitude": "51.54687",
+   "Longitude": "-0.47725",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "28/01/2007",
+   "Line": "Piccadilly, Metropolitan",
+   "Step free": "Yes ( Flat access from street)"
+ },
+ {
+   "Name": "Vauxhall",
+   "Latitude": "51.48603",
+   "Longitude": "-0.12369",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "27/01/2007",
+   "Line": "Victoria",
+   "Step free": "No ( Escalators)"
+ },
+ {
+   "Name": "Victoria",
+   "Latitude": "51.49662869",
+   "Longitude": "-0.14400853",
+   "Platform / Entrance": "C/D Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "08/09/06",
+   "Line": "Circle, District, Victoria",
+   "Step free": "No ( Steps from street level/ Escalators)"
+ },
+ {
+   "Name": "Walthamstow Central",
+   "Latitude": "51.58293",
+   "Longitude": "-0.01996",
+   "Platform / Entrance": "mainline platforms",
+   "Collected By": "Morwen",
+   "Collected On": "01/04/07",
+   "Line": "Victoria",
+   "Step free": "No ( Steps to Booking hall)"
+ },
+ {
+   "Name": "Wanstead",
+   "Latitude": "51.57565",
+   "Longitude": "0.02864",
+   "Platform / Entrance": "Entrance Hall",
+   "Collected By": "User:Firefishy",
+   "Collected On": "15/08/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Wapping",
+   "Latitude": "51.50451",
+   "Longitude": "-0.05607",
+   "Platform / Entrance": "Exit",
+   "Collected By": "User:Morwen",
+   "Collected On": "7/5/2007",
+   "Line": "East London",
+   "Step free": ""
+ },
+ {
+   "Name": "Warren Street",
+   "Latitude": "51.52450",
+   "Longitude": "-0.13810",
+   "Platform / Entrance": "??",
+   "Collected By": "User:Steve",
+   "Collected On": "11/2/06",
+   "Line": "Northern, Victoria",
+   "Step free": "No (Escalators)"
+ },
+ {
+   "Name": "Warwick Avenue",
+   "Latitude": "51.52329728",
+   "Longitude": "-0.183777837",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Waterloo",
+   "Latitude": "51.50322",
+   "Longitude": "-0.11328",
+   "Platform / Entrance": "W+C / Bakerloo / Northern Line entrance, platform 18",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "15/03/2007",
+   "Line": "Bakerloo, Northern, Waterloo & City",
+   "Step free": "Unsure ( JLE-Eurostar was built as step-free?)"
+ },
+ {
+   "Name": "Watford",
+   "Latitude": "51.65741058",
+   "Longitude": "-0.41745306",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": "Yes ( Flat access from street IIRC)"
+ },
+ {
+   "Name": "Wembley Central",
+   "Latitude": "51.55122817",
+   "Longitude": "-0.29577538",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Wembley Park",
+   "Latitude": "51.56355598",
+   "Longitude": "-0.279770242",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Jubilee, Metropolitan",
+   "Step free": "Unsure (Did have steps to/from platform?)"
+ },
+ {
+   "Name": "West Acton",
+   "Latitude": "51.51818",
+   "Longitude": "-0.28064",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "27/01/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "West Brompton",
+   "Latitude": "51.48681",
+   "Longitude": "-0.19475",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "18/05/2007",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "West Finchley",
+   "Latitude": "51.60922281219",
+   "Longitude": "-0.188711152265457",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Welshie",
+   "Collected On": "27/09/2006",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "West Ham",
+   "Latitude": "51.527917",
+   "Longitude": "+0.004141",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/06",
+   "Line": "District, Hammersmith & City, Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "West Hampstead",
+   "Latitude": "51.54678865",
+   "Longitude": "-0.191016868",
+   "Platform / Entrance": "Jubilee Line Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "08/05/2007",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "West Hampstead",
+   "Latitude": "51.54657",
+   "Longitude": "-0.19055",
+   "Platform / Entrance": "Jubilee Line platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "06/05/2007",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "West Hampstead",
+   "Latitude": "51.54755518",
+   "Longitude": "-0.190999685",
+   "Platform / Entrance": "NLL Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "08/05/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "West Hampstead",
+   "Latitude": "51.54716",
+   "Longitude": "-0.19275",
+   "Platform / Entrance": "London Overground platform",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "West Harrow",
+   "Latitude": "51.5795432",
+   "Longitude": "-0.353144584",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Metropolitan",
+   "Step free": ""
+ },
+ {
+   "Name": "West Kensington",
+   "Latitude": "51.490850",
+   "Longitude": "-0.205320",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "24/11/06",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "West Ruislip",
+   "Latitude": "51.569324",
+   "Longitude": "-0.436740",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "18/02/2007",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Westbourne Park",
+   "Latitude": "51.520995",
+   "Longitude": "-0.201778",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "07/04/2007",
+   "Line": "Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Westminster",
+   "Latitude": "51.50121",
+   "Longitude": "-0.12489",
+   "Platform / Entrance": "Portcullis House exit",
+   "Collected By": "User:Morwen",
+   "Collected On": "08/05/2007",
+   "Line": "Circle, District, Jubilee",
+   "Step free": "Unsure (Escalators)"
+ },
+ {
+   "Name": "White City",
+   "Latitude": "51.512206",
+   "Longitude": "-0.224226",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Firefishy",
+   "Collected On": "21/10/2006",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Whitechapel",
+   "Latitude": "51.51946",
+   "Longitude": "-0.05951",
+   "Platform / Entrance": "Exit",
+   "Collected By": "User:Morwen",
+   "Collected On": "7/5/2007",
+   "Line": "District, East London, Hammersmith & City",
+   "Step free": ""
+ },
+ {
+   "Name": "Willesden Green",
+   "Latitude": "51.54919",
+   "Longitude": "-0.22106",
+   "Platform / Entrance": "Between entrances",
+   "Collected By": "User:AcousticNewt",
+   "Collected On": "25/11/2006",
+   "Line": "Jubilee",
+   "Step free": ""
+ },
+ {
+   "Name": "Willesden Junction",
+   "Latitude": "51.53181",
+   "Longitude": "-0.242350",
+   "Platform / Entrance": "London Overground platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "5/5/2007",
+   "Line": "London Overground",
+   "Step free": ""
+ },
+ {
+   "Name": "Willesden Junction",
+   "Latitude": "51.53032031",
+   "Longitude": "-0.229378995",
+   "Platform / Entrance": "Platform (Bakerloo)",
+   "Collected By": "User:Firefishy",
+   "Collected On": "05/05/2007",
+   "Line": "Bakerloo",
+   "Step free": ""
+ },
+ {
+   "Name": "Wimbledon",
+   "Latitude": "51.42200",
+   "Longitude": "-0.20544",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "18/05/2007",
+   "Line": "District",
+   "Step free": "Unsure"
+ },
+ {
+   "Name": "Wimbledon Park",
+   "Latitude": "51.43391",
+   "Longitude": "-0.19864",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "18/05/2007",
+   "Line": "District",
+   "Step free": ""
+ },
+ {
+   "Name": "Wood Green",
+   "Latitude": "51.59709",
+   "Longitude": "-0.10939",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Morwen",
+   "Collected On": "26/05/2007",
+   "Line": "Piccadilly",
+   "Step free": "No (Escalators)"
+ },
+ {
+   "Name": "Woodford",
+   "Latitude": "51.60582",
+   "Longitude": "+0.03328",
+   "Platform / Entrance": "platforms",
+   "Collected By": "User:Morwen",
+   "Collected On": "21/4/07",
+   "Line": "Central",
+   "Step free": ""
+ },
+ {
+   "Name": "Woodside Park",
+   "Latitude": "51.6181717295887",
+   "Longitude": "-0.185578887883903",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Welshie",
+   "Collected On": "27/09/2006",
+   "Line": "Northern",
+   "Step free": ""
+ },
+ {
+   "Name": "Name",
+   "Latitude": "Latitude",
+   "Longitude": "Longitude",
+   "Platform / Entrance": "Platform / Entrance",
+   "Collected By": "Collected By",
+   "Collected On": "Collected On",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "All Saints",
+   "Latitude": "51.510301",
+   "Longitude": "-0.012832",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Bank",
+   "Latitude": "(See Tube List)",
+   "Longitude": "(See Tube List)",
+   "Platform / Entrance": "(See Tube List)",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Beckton",
+   "Latitude": "51.514411",
+   "Longitude": "+0.061640",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Beckton Park",
+   "Latitude": "51.508758",
+   "Longitude": "+0.054778",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Blackwall",
+   "Latitude": "51.507903",
+   "Longitude": "-0.007438",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Bow Church",
+   "Latitude": "51.5289",
+   "Longitude": "-0.0210",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "11/05/2007",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Canary Wharf",
+   "Latitude": "51.505946",
+   "Longitude": "-0.020493",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Canning Town",
+   "Latitude": "51.513880",
+   "Longitude": "+0.008876",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Crossharbour",
+   "Latitude": "51.495086",
+   "Longitude": "-0.014543",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Custom House",
+   "Latitude": "51.509731",
+   "Longitude": "+0.026013",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Cutty Sark",
+   "Latitude": "51.481713",
+   "Longitude": "-0.010811",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Cyprus",
+   "Latitude": "51.508360",
+   "Longitude": "+0.063990",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Deptford Bridge",
+   "Latitude": "51.478016",
+   "Longitude": "-0.022496",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Devons Road",
+   "Latitude": "51.522274",
+   "Longitude": "-0.017080",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "East India",
+   "Latitude": "51.509516",
+   "Longitude": "-0.002128",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Elverson Road",
+   "Latitude": "51.468768",
+   "Longitude": "-0.016265",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Gallions Reach",
+   "Latitude": "51.509111",
+   "Longitude": "+0.071911",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Greenwich",
+   "Latitude": "51.478016",
+   "Longitude": "-0.015391",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Heron Quays",
+   "Latitude": "51.5046489",
+   "Longitude": "-0.0207681",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Island Gardens",
+   "Latitude": "51.488001",
+   "Longitude": "-0.011039",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "King George V",
+   "Latitude": "51.50202",
+   "Longitude": "+0.06299",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Lewisham",
+   "Latitude": "51.465540",
+   "Longitude": "-0.013196",
+   "Platform / Entrance": "Platform 3 (National Rail / by Entrance)",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Lewisham",
+   "Latitude": "51.465216",
+   "Longitude": "-0.013166",
+   "Platform / Entrance": "DLR Platford",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "18/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Limehouse",
+   "Latitude": "51.5124366",
+   "Longitude": "-0.0395511",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "London City Airport",
+   "Latitude": "51.50319",
+   "Longitude": "+0.04864",
+   "Platform / Entrance": "Drew Road entrance",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Mudchute",
+   "Latitude": "51.491185",
+   "Longitude": "-0.014595",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Pontoon Dock",
+   "Latitude": "51.50205",
+   "Longitude": "+0.03308",
+   "Platform / Entrance": "Car park",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Poplar",
+   "Latitude": "51.507725",
+   "Longitude": "-0.016503",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Prince Regent",
+   "Latitude": "51.509471",
+   "Longitude": "+0.033473",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Pudding Mill Lane",
+   "Latitude": "51.5339",
+   "Longitude": "-0.0142",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "11/05/2007",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Royal Albert",
+   "Latitude": "51.508456",
+   "Longitude": "+0.046148",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Royal Victoria",
+   "Latitude": "51.509156",
+   "Longitude": "+0.018083",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Shadwell",
+   "Latitude": "51.51163",
+   "Longitude": "-0.05625",
+   "Platform / Entrance": "Entrance",
+   "Collected By": "User:Firefishy",
+   "Collected On": "22/10/2007",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Shadwell",
+   "Latitude": "51.511853",
+   "Longitude": "-0.055480",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "South Quay",
+   "Latitude": "51.500413",
+   "Longitude": "-0.018636",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Stratford",
+   "Latitude": "51.540470",
+   "Longitude": "-0.005085",
+   "Platform / Entrance": "DLR Platform",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Tower Gateway",
+   "Latitude": "51.510911",
+   "Longitude": "-0.073466",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "Westferry",
+   "Latitude": "51.509576",
+   "Longitude": "-0.026990",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "West India Quay",
+   "Latitude": "51.506723",
+   "Longitude": "-0.019880",
+   "Platform / Entrance": "Platform",
+   "Collected By": "User:Gagravarr",
+   "Collected On": "10/10/2006",
+   "Line": "",
+   "Step free": ""
+ },
+ {
+   "Name": "West Silvertown",
+   "Latitude": "51.50335",
+   "Longitude": "+0.02208",
+   "Platform / Entrance": "Entrance (bus stop)",
+   "Collected By": "User:Mattwestcott",
+   "Collected On": "04/11/2006",
+   "Line": "",
+   "Step free": ""
+ }
+]
