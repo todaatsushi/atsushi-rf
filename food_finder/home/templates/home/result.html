@@ -6,9 +6,15 @@
 {% endblock %}
 
 {% block main %}
-  <h1>RESULT PAGE</h1>
-  {{ station }}
-  {{ type }}
+  <h1>Result</h1>
+  {{ info }}
+  {{ search }}
+  
+  <ul>
+    {% for r in search %}
+      <li><a href="{{ r.3 }}">{{ r.0 }}, {{ r.1 }}</a></li>
+    {% endfor %}
+  </ul>
 
   <a href="/">Home</a>
 {% endblock %}

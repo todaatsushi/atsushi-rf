@@ -21,10 +21,9 @@
     <fieldset>
       <label for="type">Type of outing:</label>
       <select name="type">
-        <option value="drinks">Drinks</option>
-        <option value="dinner">Dinner</option>
-        <option value="lunch">Lunch</option>
-        <option value="coffee">Coffee</option>
+        {% for category in categories %}
+          <option value="{{ category.0 }}">{{ category.1 }}</option>
+        {% endfor %}
       </select>
     </fieldset>
 
