@@ -5,8 +5,11 @@ body {
 }
 
 .main {
-    height: 100%;
+    border: 2px solid #7794ff;
+    height: 100vh;
     width: 100%;
+    /* background-color: #7794ff;
+    color: #fff; */
 }
 
 .step {

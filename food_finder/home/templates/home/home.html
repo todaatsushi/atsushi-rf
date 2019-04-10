@@ -1,20 +1,13 @@
 {% extends 'home/layout.html'%}
 
-{% block loading %}
-  <script>
-  </script>
-{% endblock %}
-
 {% block main %}
-  <form method="POST">
+<form method="POST">
     {% csrf_token %}
     <fieldset>
       <label for="station">Pick Your Station</label>
       <input list="stations" name="stop">
       <datalist id="stations">
-        {% for station in names %}
-          <option value="{{ station }}">
-        {% endfor %}
+        <option v-for="s in stopNames" value="[[ s ]]"></option>
       </datalist>
     </fieldset>
 
@@ -30,9 +23,4 @@
     <input type="submit" value="Find">
   </form>
   
-{% endblock %}
-
-{% block vue %}
-  <script>
-  </script>
 {% endblock %}
