@@ -34,25 +34,28 @@ categories = [
 
 
 # VueJs json files
-# # Categories as json
-# categories_json = {}
-# for i in range(0, len(categories)):
-#     categories_json[categories[i][1]] = categories[i][0]
+# Categories as json
+categories_json = {}
+for i in range(0, len(categories)):
+    categories_json[categories[i][1]] = categories[i][0]
 
-# categories_json = j.dumps(categories_json, ensure_ascii=True)
-
-
-# # Stations as json
-# stations_json = {}
-# for i in range(0, len(stations.index)):
-#     stations_json[stations.iloc[i, 2]] = { 'lat': stations.iloc[i, 0], 'lon': stations.iloc[i, 1]}
-
-# stations_json = j.dumps(stations_json, ensure_ascii=True)
+categories_json = j.dumps(categories_json, ensure_ascii=True)
 
 
-# # Station names array
-# station_names = []
-# for i in range(0, len(stations.index)):
-#     station_names.append(stations.iloc[i, 2])
+# Stations as json
+stations_json = {}
+for i in range(0, len(stations.index)):
+    stations_json[stations.iloc[i, 2]] = { 'lat': stations.iloc[i, 0], 'lon': stations.iloc[i, 1]}
 
-# station_names = j.dumps(station_names, ensure_ascii=True)
+stations_json = j.dumps(stations_json, ensure_ascii=True)
+
+
+# Station names array
+station_names = []
+for i in range(0, len(stations.index)):
+    stop = stations.iloc[i, 2]
+    if stop not in station_names:
+        station_names.append(stop)
+
+
+station_names = j.dumps(station_names, ensure_ascii=True)

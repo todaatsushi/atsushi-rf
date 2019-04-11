@@ -1,25 +1,61 @@
 {% extends 'home/layout.html'%}
 
-{% block loading %}
-  <script>
-  </script>
-{% endblock %}
-
 {% block main %}
-  <h1>Result</h1>
-  {{ info }}
-  {{ search }}
-  
-  <ul>
-    {% for r in search %}
-      <li><a href="{{ r.3 }}">{{ r.0 }}, {{ r.1 }}</a></li>
-    {% endfor %}
-  </ul>
+  <section id="results">
+    <h1 class="title is-1">{[ message ]}{[ location ]}</h1>
+    
+    
+  </section>
 
   <a href="/">Home</a>
 {% endblock %}
 
-{% block vue %}
+
+{% block js %}
   <script>
+    let result = {{ search|safe }}[0];
+    let stop = "{{ info|safe }}";
+
+    let results = new Vue({
+      delimiters: ['{[', ']}'],
+      el: '#results',
+      data: {
+        message: 'Results: ',
+        location: stop,
+        shop_data: [
+          {
+            id: 'basic',
+            data: [
+              { id: 'name', data: result['name'] },
+              { id: 'url', data: result['url'] },
+              { id: 'address', data: result['location']['address'] },
+              { id: 'cuisine', data: result['cuisine'] },
+              { id: 'menu', data: result['menu_url'] }
+            ]
+          },
+          {
+            id: 'price',
+            data: [
+              { id: 'avg_cost_for_two', data: result['average_cost_for_two'] },
+              { id: 'price_range', data: result['price_range'] }
+            ]
+          },
+          {
+            id: 'ratings',
+            data: [
+              { id: 'rating', data: result['user_rating']['aggregate_rating'] },
+              { id: 'rating_text', data: result['user_rating']['rating_text'] }
+            ]
+          },
+          {
+            id: 'misc',
+            data: [
+              { id: 'photos', data: result['photos_url'] },
+              { id: 'book', data: result['book_url'] }
+            ]
+          }
+        ]
+      }
+    })
   </script>
 {% endblock %}

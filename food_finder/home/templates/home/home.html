@@ -1,26 +1,121 @@
 {% extends 'home/layout.html'%}
 
+
 {% block main %}
-<form method="POST">
-    {% csrf_token %}
-    <fieldset>
-      <label for="station">Pick Your Station</label>
-      <input list="stations" name="stop">
-      <datalist id="stations">
-        <option v-for="s in stopNames" value="[[ s ]]"></option>
-      </datalist>
-    </fieldset>
+<div class="tile is-ancestor step">
 
-    <fieldset>
-      <label for="type">Type of outing:</label>
-      <select name="type">
-        {% for category in categories %}
-          <option value="{{ category.0 }}">{{ category.1 }}</option>
-        {% endfor %}
-      </select>
-    </fieldset>
+    <div class="tile is-vertical">
 
-    <input type="submit" value="Find">
-  </form>
+      <div class="tile">
+        <div class="tile is-parent is-vertical">
+          <article class="tile is-child notification is-success content-block">
+            <h1 class="title">Restuarant Roulette</h1>
+          </article>
+          <article class="tile is-child notification is-info content-block">
+            <div class="mb">
+              <h1 class="title is-4">Usage</h1>
+              <p>
+                Simply type in any Tube stop in London, followed by the 
+                type of occasion and click find.
+              </p>
+            </div>
+            <div class="mb">
+              <h1 class="title is-4">About</h1>
+              <p>
+                Stop wasting time selecting somewhere to eat!
+                RR is a web app made using Django and Vue.js.
+              </p>
+              <p>
+                Using the Zomato API, RR randomly selects a shop 
+                that has what you want, where you want.
+              </p>
+            </div>
+          </article>
+        </div>
+
+        <div class="tile is-parent">
+          <article class="tile is-child notification is-danger content-block">
+            
+            <div class="content-block" id="config">
+              <h1 class="title is-1">Options</h1>
+              <form method="POST">
+                {% csrf_token %}
+
+                <div class="field mb">
+                  <label for="station" class="label title is-4">Pick Your Station</label>
+                  <p class="control has-icons-left has-icons-right">
+
+                    <input type="text" class="input" list="stations" 
+                     name="stop" @keyup="checkStop" v-model="stop">
+                    <span class="icon is-small is-left">
+                        <i class="fas fa-subway"></i>
+                    </span>
+                    <span class="icon is-small is-right">
+                        <i class="far fa-keyboard"></i>
+                    </span>
+                    <datalist id="stations">
+                      {% for stop in names %}
+                        <option value="{{ stop|safe }}"></option>
+                      {% endfor %}
+                    </datalist>
+                    <p class="help mb">
+                      Start typing a tube station and select from the appearing options.
+                    </p>
+                  </p>
+                </div>
+
+                <div class="field mb">
+                  <label for="type" class="label title is-4">Type of Ocasion</label>
+                  <p class="control has-icons-left">
+                    <span class="select is-rounded is-danger">
+                      <select class="is-fullwidth" name="type">
+                        {% for category in categories %}
+                          <option value="{{ category.0 }}">{{ category.1 }}</option>
+                        {% endfor %}
+                      </select>
+                    </span>
+                    <span class="icon is-left">
+                        <i class="fas fa-utensils"></i>
+                    </span>
+                  </p>
+                  <p class="help mb">
+                    Some areas may not have many options for all choices!
+                  </p>
+                </div>
+          
+                <input type="submit" value="Let's Eat!" class="button is-warning" v-if="valid">
+                <input type="submit" value="Let's Eat!" class="button is-warning" v-else disabled>
+              </form>
+            </div>
+
+          </article>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
   
+{% endblock %}
+
+{% block js %}
+  <script>
+    let valid_stops = {{ Jnames|safe }};
+
+    let config = new Vue({
+      delimiters: ['{[', ']}'],
+      el: '#config',
+      data: {
+        stop: '',
+        valid: false,
+      },
+      methods: {
+        checkStop: function(){
+          this.valid = valid_stops.includes(this.stop), stop;
+        }
+      }
+    })
+
+  </script>
 {% endblock %}

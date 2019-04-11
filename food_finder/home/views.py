@@ -2,6 +2,7 @@ from django.shortcuts import render
 
 import pandas as pd
 from random import sample
+import json
 
 # Load stations data
 import home.helper as h
@@ -15,13 +16,16 @@ def home_page(request):
         stop = request.POST.get('stop', 'NONE')
         func = request.POST.get('type', 'NONE')
 
+        print(stop)
+
 
         # Get Lat/LNG from df with form data
         stop_info = h.stations[h.stations.Name == stop]
+        print(stop_info)
         lat = float(stop_info.iloc[0, 0])
         lng = float(stop_info.iloc[0, 1])
 
-        context['info'] = [stop, lat, lng]
+        context['info'] = stop
 
         # Get API data
         results = h.zomato.getByGeocode(lat, lng)
@@ -45,31 +49,52 @@ def home_page(request):
             sort='rating',
         )
 
+        # Remove API key from raw data
+        for item in [search1, search2]:
+            for shop in item['restaurants']:
+                shop['restaurant'].pop('apikey', None)
+
+
+        # Get high rated restaurants from nearby restaurants
         search1 = [r for r in search1['restaurants']
                    if float(r['restaurant']['user_rating']['aggregate_rating']) >= 3
                    or
                    float(r['restaurant']['user_rating']['aggregate_rating']) == 0]
         
+        
+        # Get highest rated restuarants in the area
         search2 = [r for r in search2['restaurants']]
 
-        # [r['restaurant']['name'], 
-        # r['restaurant']['user_rating']['aggregate_rating'], 
-        # r['restaurant']['R']['res_id'],
-        # r['restaurant']['url']]
-
-        final = [r for r in search1 if r in search2]
+        # Find the common shops
+        final = [r['restaurant'] for r in search1 if r in search2]
         
-        context['search'] = sample(final, 1)
+        # Randomly get one shop and pass to template as JSON
+        context['search'] = json.dumps(sample(final, 1))
 
         return render(request, 'home/result.html', context=context)
 
     else:
         context = {}
-        # context['categories'] = h.categories
-        # context['stations'] = h.stations
-        # context['names'] = h.stations['Name']
-        context['categories'] = h.categories_json
-        context['stations'] = h.stations_json
-        context['names'] = h.station_names
+        context['categories'] = h.categories
+        context['stations'] = h.stations
+        context['names'] = h.stations['Name']
+        
+        # context['Jcategories'] = h.categories_json
+        # context['Jstations'] = h.stations_json
+        context['Jnames'] = h.station_names
 
         return render(request, 'home/home.html', context=context)
+
+
+## SPA Views
+# def home_page(request):
+#     context = {}
+#     context['categories'] = h.categories
+#     context['stations'] = h.stations
+#     context['names'] = h.stations['Name']
+    
+#     context['Jcategories'] = h.categories_json
+#     context['Jstations'] = h.stations_json
+#     context['Jnames'] = h.station_names
+
+#     return render(request, 'home/SPA.html', context=context)
