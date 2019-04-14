@@ -1,13 +1,116 @@
 {% extends 'home/layout.html'%}
 
 {% block main %}
-  <section id="results">
-    <h1 class="title is-1">{[ message ]}{[ location ]}</h1>
+  <section id="results" class="container center-stuff">
     
-    
-  </section>
+    <div class="tile is-ancestor top-level">
+        <div class="tile is-parent is-3">
+          <article class="tile is-child notification is-primary box center-stuff">
+            <div class="content">
+              <h1 class="title is-3">{[ message ]}</h1>
+            </div>
+          </article>
+        </div>
+        <div class="tile is-parent">
+          <article class="tile is-child notification is-warning box center-stuff">
+            <p class="title">
+              <h2 class="title is-2"> 
+                <div class="flex main-info">
+                  <span class="name center-stuff mr-lg">
+                    <a :href="shop_data['basic']['url']" class="mb" target="_blank">{[ shop_data['basic']['name'] ]}</a>
+                    <div v-html="starRating" id="stars"></div>
+                  </span>
+                  <span class="loc center-stuff">
+                    <span class="has-text-grey-light">{[ location ]}</span>
+                  </span>
+                </div>
+              </h2>
+            </p>
+            <p class="subtitle">
+              <div class="flex info">
+                <a :href="shop_data['misc']['menu']" target="_blank"><i class="fas fa-utensils mr-lg"></i> </a>
+                <a :href="shop_data['misc']['photos']" target="_blank"><i class="fas fa-camera mr-lg"></i></a>
+                <a :href="shop_data['basic']['url']" target="_blank"><i class="fas fa-info-circle"></i></a>
+              </div>
+            </p>
+          </article>
+        </div>
+    </div>
 
-  <a href="/">Home</a>
+    <div class="tile is-ancestor top-level">
+
+      <div class="tile">
+        <div class="tile is-parent">
+          <article class="tile is-child notification is-success box center-stuff">
+              <p class="title">Information</p>
+            <p class="subtitle">
+              <h6><strong>Address</strong></h6>
+              <p>
+                {[ shop_data['basic']['address'] ]}
+              </p>
+
+              <h6><strong>Serves</strong></h6>
+              <p v-if="shop_data['basic']['cuisine']">{[ shop_data['basic']['cuisine'] ]}</p>
+              <p v-else> Not specified 😐</p>
+
+              <h6><strong>Price</strong></h6>
+              <p>
+                Average cost for 2 people: £{[ shop_data['price']['avg_cost_for_two'] ]}
+              </p>
+              <p class="mb-sm">
+                Price Score: <span v-for="n in shop_data['price']['price_range']"><i class="fas fa-pound-sign"></i></span>
+              </p>
+
+              <h6 class="mb-sm"><strong>More Links</strong></h6>
+
+              <div class="flex spread">
+                <a :href="shop_data['misc']['menu']" class="button is-inverted is-success is-small mr" target="_blank">Menu</a>
+                <a :href="shop_data['misc']['photos']" class="button is-inverted is-success is-small mr" target="_blank">Photos</a>
+                <a :href="shop_data['basic']['url']" class="button is-inverted is-success is-small mr" target="_blank">Website</a>
+              </div>
+              
+            </p>
+          </article>
+        </div>
+
+        <div class="tile is-vertical">
+
+          <div class="tile is-parent">
+            <article class="tile is-child notification is-danger box center-stuff">
+              <p class="title">Quality</p>
+              <p class="subtitle">
+                <h6><strong>Score</strong></h6>
+                <p>{[ shop_data['ratings']['rating'] ]} - {[ shop_data['ratings']['rating_text'] ]}</p>
+              </p>
+            </article>
+          </div>
+
+          <div class="tile">
+            <div class="tile is-parent">
+              <article class="tile is-child notification is-info box center-stuff">
+                <a href="/" class="button is-info is-inverted is-small mb-sm">
+                  <i class="fas fa-chevron-circle-left mr"></i>Back
+                </a><br>
+                <p><i class="fas fa-redo-alt mr"></i> Refresh to try again</p>
+            </div>
+            <div class="tile is-parent">
+              <article class="tile is-child notification is-link box center-stuff">
+                  <div class="socials">
+                    <span class="credit">By Atsushi Toda: </span>
+                    <a href="" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="" target="_blank"><i class="fas fa-globe"></i></a>
+                    <a href="" target="_blank"><i class="fas fa-at"></i></a>
+                  </div>
+              </article>
+            </div>
+          </div>
+
+        </div>
+        
+      </div>
+    </div>
+
+  </section>
 {% endblock %}
 
 
@@ -20,42 +123,54 @@
       delimiters: ['{[', ']}'],
       el: '#results',
       data: {
-        message: 'Results: ',
+        message: 'How about...',
         location: stop,
-        shop_data: [
-          {
-            id: 'basic',
-            data: [
-              { id: 'name', data: result['name'] },
-              { id: 'url', data: result['url'] },
-              { id: 'address', data: result['location']['address'] },
-              { id: 'cuisine', data: result['cuisine'] },
-              { id: 'menu', data: result['menu_url'] }
-            ]
+        shop_data: {
+          basic: {
+              title: 'About',
+              name:  result['name'],
+              url: result['url'],
+              address: result['location']['address'],
+              cuisine: result['cuisines'],
           },
-          {
-            id: 'price',
-            data: [
-              { id: 'avg_cost_for_two', data: result['average_cost_for_two'] },
-              { id: 'price_range', data: result['price_range'] }
-            ]
+          price: {
+              title: 'Price Information',
+              avg_cost_for_two: result['average_cost_for_two'],
+              price_range: result['price_range'],
+              show: false
           },
-          {
-            id: 'ratings',
-            data: [
-              { id: 'rating', data: result['user_rating']['aggregate_rating'] },
-              { id: 'rating_text', data: result['user_rating']['rating_text'] }
-            ]
+          ratings: {
+              title: 'Reviews',
+              rating: result['user_rating']['aggregate_rating'],
+              rating_text: result['user_rating']['rating_text'],
           },
-          {
-            id: 'misc',
-            data: [
-              { id: 'photos', data: result['photos_url'] },
-              { id: 'book', data: result['book_url'] }
-            ]
+          misc: {
+              title: 'Other',
+              photos: result['photos_url'],
+              menu: result['menu_url']
           }
-        ]
       }
-    })
+    },
+    computed: {
+      starRating: function() {
+        template = ''
+        star = '<i class="fas fa-star"></i>'
+        half = '<i class="fas fa-star-half"></i>'
+        empty = '<i class="far fa-star"></i>'
+        tot = Number(result['user_rating']['aggregate_rating'])
+        i = 0
+
+        for (i; i <= tot - 1 ; i++) {
+          template += star
+        }
+
+        if (tot - i > 0) {
+          template += half
+        }
+
+        return template
+      }
+    }
+  })
   </script>
 {% endblock %}

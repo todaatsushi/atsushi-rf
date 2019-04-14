@@ -46,7 +46,7 @@
                   <p class="control has-icons-left has-icons-right">
 
                     <input type="text" class="input" list="stations" 
-                     name="stop" @keyup="checkStop" v-model="stop">
+                     name="stop" v-model="stop">
                     <span class="icon is-small is-left">
                         <i class="fas fa-subway"></i>
                     </span>
@@ -110,9 +110,13 @@
         stop: '',
         valid: false,
       },
-      methods: {
-        checkStop: function(){
-          this.valid = valid_stops.includes(this.stop), stop;
+      watch: {
+        'stop': function(input) {
+          if (valid_stops.includes(input)) {
+            this.valid = true;
+          } else {
+            this.valid = false;
+          }
         }
       }
     })

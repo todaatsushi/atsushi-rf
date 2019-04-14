@@ -17,6 +17,25 @@ body {
     min-height: 400px;
 }
 
+/* Result page */
+
+#results {
+    height: 100%;
+    min-height: 400px;
+}
+
+.main-info.name a {
+    font-size: 1.5em;
+}
+
+#stars {
+    font-size: 0.5em;
+}
+
+.info {
+    font-size: 1.5em;
+}
+
 /* Form */
 .content-block {
     display: flex;
@@ -42,11 +61,60 @@ body {
     max-width: 760px;
 }
 
+/* About Me */
+.socials {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex {
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+}
+
 /* Helpers */
 .mb {
     margin-bottom: 1rem;
 }
 
+.mb-sm {
+    margin-bottom: 0.5rem;
+}
+
+.mr {
+    margin-right: 0.5rem;
+}
+
+.mr-lg {
+    margin-right: 2rem;
+}
+
+.flex.spread {
+    justify-content: space-between;
+}
+
+.flex.spread a {
+    width: 30%
+}
+
+.top-level {
+    height: 45vh;
+}
+
+.center-stuff {
+    display: flex !important;
+    flex-direction: column !important; 
+    align-content: center !important;
+    justify-content: center !important;
+}
+
+/* Dev */
+
 .border {
-    border: 2px solid black;
+    border: 2px solid hotpink;
+}
+
+.border2 {
+    border: 2px solid pink;
 }

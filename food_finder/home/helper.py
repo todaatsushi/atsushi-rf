@@ -29,7 +29,7 @@ categories = [
 
      if r['categories']['name'] in 
      ['Cafes', 'Breakfast', 'Lunch', 
-      'Dinner', 'Pubs & Bars', 'Clubs & Lounges']
+      'Dinner', 'Pubs & Bars']
      ]
 
 
