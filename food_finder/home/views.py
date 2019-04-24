@@ -16,12 +16,8 @@ def home_page(request):
         stop = request.POST.get('stop', 'NONE')
         func = request.POST.get('type', 'NONE')
 
-        print(stop)
-
-
         # Get Lat/LNG from df with form data
         stop_info = h.stations[h.stations.Name == stop]
-        print(stop_info)
         lat = float(stop_info.iloc[0, 0])
         lng = float(stop_info.iloc[0, 1])
 
@@ -29,7 +25,6 @@ def home_page(request):
 
         # Get API data
         results = h.zomato.getByGeocode(lat, lng)
-
         results = [results['location']['entity_id'], results['location']['entity_type']]
 
         # Search test
@@ -79,22 +74,10 @@ def home_page(request):
         context['stations'] = h.stations
         context['names'] = h.stations['Name']
         
+        ## Json Data
         # context['Jcategories'] = h.categories_json
         # context['Jstations'] = h.stations_json
         context['Jnames'] = h.station_names
 
         return render(request, 'home/home.html', context=context)
 
-
-## SPA Views
-# def home_page(request):
-#     context = {}
-#     context['categories'] = h.categories
-#     context['stations'] = h.stations
-#     context['names'] = h.stations['Name']
-    
-#     context['Jcategories'] = h.categories_json
-#     context['Jstations'] = h.stations_json
-#     context['Jnames'] = h.station_names
-
-#     return render(request, 'home/SPA.html', context=context)
