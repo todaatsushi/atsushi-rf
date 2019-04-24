@@ -12,9 +12,9 @@ BASE_DIR = os.path.dirname(PROJECT_DIR)
 SECRET_KEY = os.getenv('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', 'heroku.com']
+ALLOWED_HOSTS = ['localhost', 'shop-finder.herokuapp.com']
 
 
 # Application definition
