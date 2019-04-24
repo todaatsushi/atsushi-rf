@@ -21,7 +21,7 @@ ALLOWED_HOSTS = ['localhost', 'shop-finder.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
-    'home',
+    'home.apps.HomeConfig',
 
     'django.contrib.admin',
     'django.contrib.auth',
