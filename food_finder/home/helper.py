@@ -5,10 +5,9 @@ import json as j
 
 # Zomato API configure
 from pyzomato import Pyzomato
-from secret import ZOMATO_API_KEY
 
 # Initialise Zomato Object
-zomato = Pyzomato(ZOMATO_API_KEY)
+zomato = Pyzomato(os.getenv('ZOMATO_API_KEY'))
 
 
 # Open JSON file from dir
