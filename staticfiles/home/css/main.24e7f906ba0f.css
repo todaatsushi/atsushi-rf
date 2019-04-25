@@ -1,0 +1,125 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.step {
+    height: 100%;
+    min-height: 400px;
+}
+
+/* Result page */
+
+#results {
+    margin-top: 1px;
+}
+
+.main-info.name a {
+    font-size: 1.5em;
+}
+
+#stars {
+    font-size: 0.5em;
+}
+
+.info {
+    font-size: 1.5em;
+}
+
+/* Form */
+
+.content-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.content-block form {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-self: center;
+    align-self: center;
+    padding: 30px;
+}
+
+.select select {
+    width: 33vw;
+    min-width: 250px;
+    max-width: 760px;
+}
+
+.field {
+    height: 100%;
+}
+
+#options-head {
+    margin-bottom: 20%;
+}
+
+/* About Me */
+.socials {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex {
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+}
+
+/* Helpers */
+.mb {
+    margin-bottom: 1rem;
+}
+
+.mb-sm {
+    margin-bottom: 0.5rem;
+}
+
+.mr {
+    margin-right: 0.5rem;
+}
+
+.mr-lg {
+    margin-right: 2rem;
+}
+
+.flex.spread {
+    justify-content: space-between;
+}
+
+.flex.spread a {
+    width: 30%
+}
+
+.top-level {
+    height: 45vh;
+}
+
+.center-stuff {
+    display: flex !important;
+    flex-direction: column !important; 
+    align-content: center !important;
+    justify-content: center !important;
+}
+
+/* Dev */
+
+.border {
+    border: 2px solid hotpink;
+}
+
+.border2 {
+    border: 2px solid pink;
+}
