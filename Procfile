@@ -1,1 +1,0 @@
-web: gunicorn food_finder.food_finder.wsgi --log-file -
