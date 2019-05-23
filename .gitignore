@@ -1,6 +1,7 @@
 db.sqlite3
 .gitignore
 log.django
+SPA.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

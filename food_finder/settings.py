@@ -17,6 +17,8 @@ DEBUG = (os.getenv('DEBUG') == 'True')
 
 ALLOWED_HOSTS = ['localhost', 'atsushi-rf.herokuapp.com']
 
+# Force SSL
+SECURE_SSL_REDIRECT = True
 
 # Application definition
 
