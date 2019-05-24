@@ -80,4 +80,3 @@ def home_page(request):
         context['Jnames'] = h.station_names
 
         return render(request, 'home/home.html', context=context)
-

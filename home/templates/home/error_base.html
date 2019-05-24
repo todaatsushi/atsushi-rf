@@ -1,0 +1,13 @@
+{% extends 'home/layout.html' %}
+
+{% block main %}
+    <div class="message">
+        <h1>Error!</h1>
+
+        <h4>Number: {% block err_no %}{% endblock %}</h4>
+        <p>
+            {% block message %}
+            {% endblock %}
+        </p>
+    </div>
+{% endblock %}
