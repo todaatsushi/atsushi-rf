@@ -20,6 +20,7 @@ body {
 
 #results {
     margin-top: 1px;
+    padding: 0;
 }
 
 .main-info.name a {
