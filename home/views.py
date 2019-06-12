@@ -9,6 +9,10 @@ import home.helper as h
 
 
 def home_page(request):
+    """
+    If GET, shows the home page. Else gets the form data (user config) and the relevant data from Zomato. It then picks the relevant 
+    store and passes the data to the view for Vue to disassemble and display.
+    """
 
     if request.method == 'POST':
         context = {}
@@ -62,9 +66,14 @@ def home_page(request):
 
         # Find the common shops
         final = [r['restaurant'] for r in search1 if r in search2]
+
+        if len(final) < 1:
+            render(request, 'home/no_shops.html', context=context)
         
         # Randomly get one shop and pass to template as JSON
-        context['search'] = json.dumps(sample(final, 1))
+        shop = sample(final, 1)
+
+        context['search'] = json.dumps(shop)
 
         return render(request, 'home/result.html', context=context)
 
