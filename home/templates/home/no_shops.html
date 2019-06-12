@@ -1,0 +1,78 @@
+{% extends 'home/layout.html'%}
+
+{% block title %}
+  No Shops
+{% endblock %}
+
+{% block main %}
+  <section id="results" class="container center-stuff main">
+    
+    <div class="tile is-ancestor top-level">
+        <div class="tile is-parent is-3">
+          <article class="tile is-child notification is-primary box center-stuff">
+            <div class="content">
+              <h1 class="title is-3">No shops to choose from!</h1>
+            </div>
+          </article>
+        </div>
+
+        <div class="tile is-parent">
+          <article class="tile is-child notification is-warning box center-stuff">
+            <p class="title">
+              <h2 class="title is-2"> 
+                <div class="flex main-info">
+                  <span class="name center-stuff mr-lg">
+                    <p>The Zomato API didn't return any shops!</p>
+                  </span>
+                </div>
+              </h2>
+            </p>
+          </article>
+        </div>
+        
+    </div>
+
+    <div class="tile is-ancestor top-level">
+
+      <div class="tile">
+        <div class="tile is-parent">
+          <article class="tile is-child notification is-success box center-stuff">
+            <h2>Please reconfigure - maybe another nearby station?</h2>
+          </article>
+        </div>
+
+        <div class="tile is-vertical">
+
+          <div class="tile is-parent">
+            <article class="tile is-child notification is-danger box center-stuff">
+                <p>I would also love to hear some feedback! Get in touch via GitHub.</p>
+            </article>
+          </div>
+
+          <div class="tile">
+            <div class="tile is-parent">
+              <article class="tile is-child notification is-info box center-stuff">
+                <a href="/" class="button is-info is-inverted is-small mb-sm">
+                  <i class="fas fa-chevron-circle-left mr"></i>Back
+                </a><br>
+                <p><i class="fas fa-redo-alt mr"></i> Refresh to try again</p>
+              </article>
+            </div>
+            <div class="tile is-parent">
+              <article class="tile is-child notification is-link box center-stuff">
+                  <div class="socials">
+                    <span class="credit">By Atsushi Toda: </span>
+                    <a href="https://github.com/broadsinatlanta" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="" target="_blank"><i class="fas fa-globe"></i></a>
+                  </div>
+              </article>
+            </div>
+          </div>
+
+        </div>
+        
+      </div>
+    </div>
+
+  </section>
+{% endblock %}

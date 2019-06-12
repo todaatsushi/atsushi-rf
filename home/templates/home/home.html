@@ -105,16 +105,21 @@
 
 {% block js %}
   <script>
+    // All stops in London
     let valid_stops = {{ Jnames|safe }};
 
+    // Vue Component
     let config = new Vue({
       delimiters: ['{[', ']}'],
       el: '#config',
       data: {
         stop: '',
+
+        // Flag to enable the submit button
         valid: false,
       },
       watch: {
+        // Only enable the button when the stop is in the db
         'stop': function(input) {
           if (valid_stops.includes(input)) {
             this.valid = true;

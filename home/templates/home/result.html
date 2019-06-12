@@ -98,6 +98,7 @@
                   <i class="fas fa-chevron-circle-left mr"></i>Back
                 </a><br>
                 <p><i class="fas fa-redo-alt mr"></i> Refresh to try again</p>
+              </article>
             </div>
             <div class="tile is-parent">
               <article class="tile is-child notification is-link box center-stuff">
@@ -121,15 +122,19 @@
 
 {% block js %}
   <script>
+    // Gather the information from the Django view.
     let result = {{ search|safe }}[0];
     let stop = "{{ info|safe }}";
 
+    // Build component
     let results = new Vue({
       delimiters: ['{[', ']}'],
       el: '#results',
       data: {
         message: 'How about...',
         location: stop,
+
+        // splits the store data into different sub categories and disassembles it.
         shop_data: {
           basic: {
               title: 'About',
@@ -157,6 +162,7 @@
       }
     },
     computed: {
+      // Dynamic number of stars depending on the rating.
       starRating: function() {
         template = ''
         star = '<i class="fas fa-star"></i>'
