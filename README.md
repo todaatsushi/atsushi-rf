@@ -36,7 +36,7 @@ python manage.py collectstatic
 ## Built With
 
 * [Django](https://docs.djangoproject.com/en/2.2/) - The web framework used
-* [Bulma](https://getuikit.com/docs/introduction) - CSS framework
+* [Bulma](https://bulma.io/) - CSS framework
 * [VueJS](https://vuejs.org/) - JavaScript framework
 
 ## Authors
