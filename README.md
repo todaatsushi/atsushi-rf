@@ -15,9 +15,9 @@ pip install -r requirements.txt
 
 ### .env variables
 RR expects:
-* Django secret key
-* A [Zomato API secret key](https://developers.zomato.com/api)
-* Debug configuration ('True' for debug mode)
+* SECRET_KEY - Django secret key
+* ZOMATO_API_KEY - A [Zomato API secret key](https://developers.zomato.com/api)
+* DEBUG - Debug configuration ('True' for debug mode)
 
 Put them in a .env file and set with:
 ```
